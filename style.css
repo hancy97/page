@@ -1,0 +1,178 @@
+body {
+    background-image: url("https://i1.wp.com/expeditom.com/wp-content/uploads/2020/06/ExpediTom-Wildlife-Observations-in-the-Jura-mountains-Switzerland-0006.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+    color: #fff;
+    margin: 0;
+}
+
+::before body {
+    content: ' ';
+    border: 5px solid black;
+    border-radius: 12px;
+    margin-left: 1000px;
+}
+
+
+/*.hapa {
+    justify-content: space-around;
+}*/
+
+.cont {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#logo {
+    height: 5px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+#home {
+    flex: 0.5px;
+    max-width: 13vh;
+}
+
+#kichwa {
+    text-align: center;
+    font-size: 32px;
+    margin-right: 900px;
+    margin-top: 239px;
+    margin-left: 60px;
+    text-transform: lowercase;
+}
+
+#kichwa h1 {
+    font-weight: 19px;
+}
+
+.pamo {
+    display: flex;
+    /*max-width: 189px;*/
+    height: 280px;
+    margin-bottom: 0;
+    color: #000;
+    /*flex: 2px;*/
+}
+
+#chini {
+    background-color: #fff;
+    flex: 2px;
+    color: grey;
+}
+
+#chini>p {
+    margin-bottom: 75px;
+}
+
+#chino {
+    flex: 2px;
+    height: 50px;
+    margin-bottom: 0;
+}
+
+#chino>img {
+    margin-bottom: 0;
+    margin-top: -30px;
+    height: 310px;
+    width: 450px;
+}
+
+#chinu {
+    flex: 2px;
+    background-color: #000000;
+    color: #fff;
+    padding-left: 35px;
+    padding-top: 35px;
+}
+
+.wote {
+    display: flex;
+    flex: 1px;
+    font-size: 24px;
+}
+
+#br>a:hover {
+    color: #000;
+    border-top: solid 2px #000;
+}
+
+#br>p {
+    font-size: 10px;
+    color: gray;
+}
+
+#bs>a:hover {
+    color: #000;
+    border-top: solid 2px #000;
+}
+
+#bs>p {
+    font-size: 10px;
+    color: gray;
+}
+
+#bt>a:hover {
+    color: #000;
+    border-top: solid 2px #000;
+}
+
+#bt>p {
+    font-size: 10px;
+    color: gray;
+}
+
+#br {
+    flex: 1px;
+}
+
+#bs {
+    flex: 1px;
+}
+
+#bt {
+    flex: 1px;
+}
+
+#ma>p {
+    margin-bottom: 39px;
+    font-weight: 3px;
+}
+
+#me>p {
+    margin-bottom: 49px;
+    margin-left: 15px
+}
+
+#mi>p {
+    color: #fff;
+    text-decoration: none;
+}
+
+#ngunda {
+    color: #000000;
+    margin-top: 75px;
+    font-size: 10px;
+    display: flex;
+    flex: 1px;
+}
+
+#ngunde {
+    flex: 1px;
+    justify-content: space-around;
+}
+
+#foll {
+    margin-right: 49px;
+    margin-top: 0px;
+}
+
+#foll>p {
+    padding-left: 10px;
+}
+
+#moja {
+    padding-right: 39px;
+}
